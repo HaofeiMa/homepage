@@ -8,6 +8,6 @@
     url("../fonts/d571b52b60b5617399ce8eab62bf3eb3.svg#Engravers' Old English BT") format("svg");
 } */
 
-@font-face {font-family: "Engravers' Old English BT";
-    src: url("../fonts/Slugs Racer.ttf") format("truetype");
+@font-face {font-family: "SlugsRacer";
+    src: url("../fonts/Slugs\ Racer.ttf") format("truetype");
 }
