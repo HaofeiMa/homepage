@@ -15,7 +15,7 @@ const req = https.request(options, bing_res => {
   });
   bing_res.on('end', () => {
     bing_body = Buffer.concat(bing_body);
-    bing_data = JSON.parse(bing_body.toString());
+    _data = JSON.parse(bing_body.toString());
     let img_array = bing_data.images;
     let img_url = [];
     img_array.forEach(img => {
