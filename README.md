@@ -31,4 +31,3 @@ Homepage
 
 - 访问地址：[个人主页](https://home.mahaofei.com/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
-- 使用 `GitHub Action` 来获取 Bing 壁纸，使用 `JSONP` 获取 Bing 壁纸 URL 文件，Github Action 配置请参考[详细步骤](./ActionNotes.md)
